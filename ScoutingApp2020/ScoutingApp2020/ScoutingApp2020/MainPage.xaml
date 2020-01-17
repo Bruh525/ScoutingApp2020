@@ -12,7 +12,7 @@
 
         <StackLayout>
        
-        <Label Text="Sairam is God" 
+        <Label Text="Sairam is Go" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
         </StackLayout>
